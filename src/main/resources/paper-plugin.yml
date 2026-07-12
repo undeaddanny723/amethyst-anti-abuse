@@ -1,0 +1,4 @@
+name: AmethystAntiAbuse
+version: '1.0'
+main: me.undeaddanny723.amethystAntiAbuse.AmethystAntiAbuse
+api-version: '1.21'
